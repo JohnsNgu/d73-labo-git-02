@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9f78cd8-8b83-4f9f-9d35-a93b8849e4f5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -66,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568906572651</updated>
       <workItem from="1568906573898" duration="170000" />
+      <workItem from="1568907179916" duration="432000" />
     </task>
     <servers />
   </component>
@@ -77,7 +79,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
